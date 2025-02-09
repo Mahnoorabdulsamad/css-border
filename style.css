@@ -1,0 +1,149 @@
+.one {
+   
+    border-style: solid;
+width: 140px;
+height:50px ;
+    border-color:green;
+    border-radius: 0px 50px 0px 50px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 10px;
+    
+  
+}
+.two {
+    /* Add your styles here */
+    background-color: white;
+    border-style: solid;
+    border-color:green yellow blue palevioletred; 
+    border-radius: 0px 25px 25px 0px;
+    width: 130px;
+    height: 60px;
+    justify-items: center;
+    text-align: center;
+    padding-top: 10px;
+    /* border-top-left-radius: 30px; */
+    /* border-bottom-right-radius: 30px; */
+}
+.three {
+    /* Add your styles here */
+    background-color: white;
+    border-style: solid;
+   border-color: yellow;
+    border-radius:   5px 5px 5px 5px;
+    width: 140px;
+    height: 60px; 
+    justify-items: center;
+    text-align: center; 
+    padding-top: 10px;  
+}
+.four {
+    /* Add your styles here */
+    background-color: white;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 50px 50px 0px 0px;
+    width: 140px;
+    height: 60px;
+    justify-items: center;
+    text-align: center; 
+    padding-top: 10px;
+}
+div{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+
+
+/* second2 */
+
+.one1 {
+    border-style: solid ridge dashed groove;
+    border-color: green;
+  
+    border-top-left-radius: 65px;
+    border-top-right-radius: 65px;
+    width: 170px;
+    height: 90px;
+    border-width: 3px 25px 5px 25px;
+  }
+  .one1,
+  bold {
+    font-size: 5px;
+    text-align: center;
+    justify-content: center;
+  }
+  .two2 {
+    border-right-style: double;
+  
+    border-left-style: double;
+    border-color: rgb(236, 178, 214);
+    border-radius: 100px 100px 100px 100px;
+    border-width: 0px 10px 0px 10px;
+    width: 160px;
+    height: 90px;
+    padding: 20px;
+  }
+  .two2,
+  b {
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 50px;
+  }
+  
+  .three3 {
+    border-style: ridge;
+    border-radius: 0px 50px 50px 0px;
+    width: 130px;
+  
+    background-color: white;
+    border-color: rgb(27, 241, 27) yellow rgb(0, 89, 255) rgb(206, 11, 76);
+    border-width: thick;
+    height: 60px;
+  
+    padding-top: 20px;
+    padding: 20px;
+  }
+  .three3,
+  bul {
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+  
+    margin-top: 30px;
+    font-weight: bold;
+  }
+  .four4 {
+    border-style: solid outset solid outset;
+    border-radius: 0px 80px 0px 80px;
+    width: 140px;
+    border-color: rgb(53, 154, 245) rgb(53, 154, 245) rgb(201, 9, 121)
+      rgb(201, 9, 121);
+    border-width: 2px 15px 2px 15px;
+    background-color: rgb(27, 249, 7);
+    height: 50px;
+  
+    padding: 20px;
+  
+    margin-top: 40px;
+  }
+  .four4,
+  leaf {
+    text-align: center;
+    justify-content: center;
+  }
+  
+  div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    gap: 20px;
+  }
+  
